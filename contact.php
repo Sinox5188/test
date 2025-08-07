@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-<body>
+<body>    
 <?php
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
     // Get and sanitize form input
